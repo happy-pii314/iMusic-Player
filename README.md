@@ -63,11 +63,13 @@ git clone https://github.com/yourusername/IMusic.git
 
 ```
 Screenshot 1 – Song List
-![Uploading img1.jpg…]()
+![img1](https://github.com/user-attachments/assets/4c7aaeeb-a075-4b1c-b444-ecf96de5bc8a)
+
 
 
 Screenshot 2 – Music Player
-![Uploading img2.jpg…]()
+![img2](https://github.com/user-attachments/assets/7bad67f6-8a38-47c2-b684-6757f045b6e6)
+
 
 ```
 
@@ -87,3 +89,4 @@ Screenshot 2 – Music Player
 Created by **[Your Name]**
 
 Learning Android Development 🚀
+
