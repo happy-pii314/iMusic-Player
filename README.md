@@ -62,15 +62,8 @@ git clone https://github.com/yourusername/IMusic.git
 (Add your app screenshots here)
 
 ```
-Screenshot 1 – Song List
-![img1](https://github.com/user-attachments/assets/4c7aaeeb-a075-4b1c-b444-ecf96de5bc8a)
-
-
-
-Screenshot 2 – Music Player
-![img2](https://github.com/user-attachments/assets/7bad67f6-8a38-47c2-b684-6757f045b6e6)
-
-
+![Song List](img1.png)
+![Music Player](img2.png)
 ```
 
 ---
@@ -89,4 +82,5 @@ Screenshot 2 – Music Player
 Created by **[Your Name]**
 
 Learning Android Development 🚀
+
 
