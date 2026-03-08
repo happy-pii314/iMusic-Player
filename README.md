@@ -79,8 +79,9 @@ git clone https://github.com/yourusername/IMusic.git
 
 ## 👨‍💻 Author
 
-Created by **[Your Name]**
+Created by **A T**
 
 Learning Android Development 🚀
+
 
 
